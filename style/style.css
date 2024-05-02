@@ -11,7 +11,7 @@
 }
 
 .image__one {
-  animation: mama 2s linear infinite; 
+  animation: mama 3s linear infinite; 
 }
 
 @keyframes mama {
